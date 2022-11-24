@@ -2,7 +2,11 @@
 
 [Kodluyoruz](https://www.kodluyoruz.org/)  Front-End eğitimi için hazırlanan 'Orta Seviye Front-End Web Development Patikası' ödevidir. React "Ödev 2" için oluşturulmuştur.
 
+Proje linki: https://todo-app-cancelik.netlify.app/
+
 ## Todo App
+
+- [Projenin canlı hali için tıklayın.](https://todo-app-cancelik.netlify.app/)
 
 - Proje Görseli;
 
